@@ -1,1 +1,1 @@
-alert ("Hi, i'am script");
+console.log("I'am not javascript. I'am PHP!!!");
