@@ -1,1 +1,1 @@
-alert ("Hi, i'am script");
+console.log ("Hi, i'am script. What is your name?");
